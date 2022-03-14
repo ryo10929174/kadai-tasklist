@@ -11,7 +11,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebFilter;
 
 
-@WebFilter("/EncodingFilter")
+@WebFilter("/*")
 public class EncodingFilter implements Filter {
 
 
