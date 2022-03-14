@@ -4,4 +4,4 @@
 <br /><br/>
 
 <input type="hidden" name="_token" value="${_token}" />
-<button type="submit">追加</button>
+<button type="submit">更新</button>
